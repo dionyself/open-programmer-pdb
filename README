@@ -1,0 +1,13 @@
+pdb: a simple ICD debugger for PIC16 
+Website: http://openprog.altervista.org
+These sources are given free of charge under the GNU General Public License version 2 
+
+Changelog:
+
+V 0.1	july 2010:		first release
+
+Help: pdb -h
+To compile: make
+To install: make install
+
+Can be compiled under windows with MinGW/MSYS
